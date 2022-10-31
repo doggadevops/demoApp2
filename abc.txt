@@ -1,4 +1,6 @@
-This is a conflict line
+aslkfjsda;fja
+asjfkld;safjkas;dfjasd
+dsalk;fjlkl;asdjfk
 a;lsdfk;safjka
 ajlkfdas;dfjklasjdf
 akjflasd;fjalsdf;kjl;asd
@@ -6,3 +8,5 @@ alkdsj;jas;fjlas;dfjasd;fja;
 asjklf;asfjkas
 ajkfl;asdkjfsa
 al;sfjda;lsfj
+aslfjkasd;fja
+skdjlafj;asdjfk
